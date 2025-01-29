@@ -1,5 +1,5 @@
-# terraform-docs-samples
-
+# # [START certificatemanager_google_managed_lb_auth_parent_tag]-docs-samples
+true-JuanRinconG1
 Terraform samples intended for inclusion in [cloud.google.com](https://cloud.google.com/).
 
 Typically, the samples are imported on tabs in how-to guides. For example, see
